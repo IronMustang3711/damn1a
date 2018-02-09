@@ -12,9 +12,7 @@
 #ifndef CLAMPPOSITION_H
 #define CLAMPPOSITION_H
 
-
-#include "Commands/Subsystem.h"
-#include "../Robot.h"
+#include <Commands/Command.h>
 
 /**
  *

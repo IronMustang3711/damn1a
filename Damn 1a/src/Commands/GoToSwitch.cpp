@@ -1,7 +1,7 @@
 #include "GoToSwitch.h"
-#include "./BucketTiltPosition.h"
-#include "./UpperTiltPosition.h"
-#include "./StowClamp.h"
+#include "BucketTiltPosition.h"
+#include "UpperTiltPosition.h"
+#include "StowClamp.h"
 
 GoToSwitch::GoToSwitch() {
 	// stow clamp

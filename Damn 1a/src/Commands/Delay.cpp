@@ -1,5 +1,7 @@
 #include "Delay.h"
 
+using namespace frc;
+
 Delay::Delay(double timeout) : TimedCommand(timeout) {
 	// Use Requires() here to declare subsystem dependencies
 	// eg. Requires(Robot::chassis.get());

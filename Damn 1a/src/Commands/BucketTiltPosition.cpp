@@ -11,6 +11,10 @@
 
 
 #include "BucketTiltPosition.h"
+#include "../Robot.h"
+
+using namespace frc;
+
 struct{
 	float armPosition;
 	float bucketPosition;

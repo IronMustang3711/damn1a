@@ -11,6 +11,10 @@
 
 
 #include "ClampPosition.h"
+#include "../Robot.h"
+
+using namespace frc;
+
 double startTime;
 
 

@@ -1,4 +1,7 @@
 #include "WinchUp.h"
+#include "../Robot.h"
+
+using namespace frc;
 
 WinchUp::WinchUp() {
 	// Use Requires() here to declare subsystem dependencies
