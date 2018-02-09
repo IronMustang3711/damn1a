@@ -1,7 +1,7 @@
 #include "GoToScale.h"
-#include "Commands/BucketTiltPosition.h"
-#include "Commands/UpperTiltPosition.h"
-#include "Commands/StowClamp.h"
+#include "../Commands/BucketTiltPosition.h"
+#include "../Commands/UpperTiltPosition.h"
+#include "../Commands/StowClamp.h"
 
 GoToScale::GoToScale() {
 	// stow clamp
