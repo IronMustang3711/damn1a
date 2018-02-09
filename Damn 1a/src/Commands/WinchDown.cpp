@@ -1,6 +1,6 @@
 #include "WinchDown.h"
-#include "../Subsystems/Winch.h"
-#include "../Robot.h"
+#include "Subsystems/Winch.h"
+#include "Robot.h"
 using namespace frc;
 WinchDown::WinchDown() {
 	// Use Requires() here to declare subsystem dependencies

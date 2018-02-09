@@ -1,6 +1,6 @@
 #include "WinchUp.h"
-#include "../Subsystems/Winch.h"
-#include "../Robot.h"
+#include "Subsystems/Winch.h"
+#include "Robot.h"
 
 using namespace frc;
 

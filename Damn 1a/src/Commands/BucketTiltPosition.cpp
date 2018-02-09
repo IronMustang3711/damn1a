@@ -11,9 +11,9 @@
 
 
 #include "BucketTiltPosition.h"
-#include "../Subsystems/UpperTilt.h"
-#include "../Subsystems/Bucket.h"
-#include "../Robot.h"
+#include "Subsystems/UpperTilt.h"
+#include "Subsystems/Bucket.h"
+#include "Robot.h"
 
 using namespace frc;
 

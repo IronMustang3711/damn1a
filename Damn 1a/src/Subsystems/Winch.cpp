@@ -1,5 +1,5 @@
 #include "Winch.h"
-#include "../RobotMap.h"
+#include "RobotMap.h"
 using namespace frc;
 Winch::Winch() : Subsystem("Winch") {
     winchMotor = RobotMap::winchMotor;

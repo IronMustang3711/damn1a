@@ -11,8 +11,8 @@
 
 
 #include "ClampTiltPosition.h"
-#include "../Subsystems/ClampTilt.h"
-#include "../Robot.h"
+#include "Subsystems/ClampTilt.h"
+#include "Robot.h"
 
 
 using namespace frc;

@@ -11,8 +11,8 @@
 
 
 #include "UpperTiltPosition.h"
-#include "../Subsystems/UpperTilt.h"
-#include "../Robot.h"
+#include "Subsystems/UpperTilt.h"
+#include "Robot.h"
 
 using namespace frc;
 
