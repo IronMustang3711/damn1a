@@ -11,6 +11,7 @@
 
 
 #include "ClampPosition.h"
+#include "../Subsystems/Clamp.h"
 #include "../Robot.h"
 
 using namespace frc;
