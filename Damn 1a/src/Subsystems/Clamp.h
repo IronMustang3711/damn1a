@@ -12,8 +12,9 @@
 #ifndef CLAMP_H
 #define CLAMP_H
 
-#include "Commands/PIDSubsystem.h"
-#include "WPILib.h"
+#include <Commands/PIDSubsystem.h>
+#include <SpeedController.h>
+#include <Encoder.h>
 
 /**
  *
